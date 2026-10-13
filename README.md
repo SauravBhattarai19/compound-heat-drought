@@ -5,7 +5,9 @@ Code for:
 > Bhattarai, S., Pradhan, N. R., and Talchabhadel, R. *Compound heatwave and drought hazards accelerate fastest in drylands while human exposure rises.*
 > (submitted to npj Natural Hazards)
 
+Archived code (this release, v1.0.0): Zenodo, doi:[10.5281/zenodo.23352920](https://doi.org/10.5281/zenodo.23352920).
 Derived data: Zenodo, doi:[10.5281/zenodo.23350013](https://doi.org/10.5281/zenodo.23350013).
+Both Zenodo records become public when the paper is published.
 
 The code builds monthly heatwave, drought and compound heatwave–drought flags on the
 global 0.25° ERA5 grid for 1950–2025. It then computes per-pixel trends and produces

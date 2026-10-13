@@ -13,4 +13,6 @@ authors:
     affiliation: "Jackson State University"
 license: MIT
 version: 1.0.0
-date-released: 2026-10-10
+doi: 10.5281/zenodo.23352920
+repository-code: "https://github.com/SauravBhattarai19/compound-heat-drought"
+date-released: 2026-10-13
