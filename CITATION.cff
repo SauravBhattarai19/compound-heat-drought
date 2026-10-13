@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper and this software."
+title: "compound-heat-drought: code for a 76-year global record of compound heatwave-drought hazards"
+authors:
+  - family-names: Bhattarai
+    given-names: Saurav
+    affiliation: "Jackson State University"
+  - family-names: Pradhan
+    given-names: Nawa Raj
+    affiliation: "U.S. Army Corps of Engineers, Engineer Research and Development Center"
+  - family-names: Talchabhadel
+    given-names: Rocky
+    affiliation: "Jackson State University"
+license: MIT
+version: 1.0.0
+date-released: 2026-10-10

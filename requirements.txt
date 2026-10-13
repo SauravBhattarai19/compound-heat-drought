@@ -1,0 +1,23 @@
+# Versions used for the paper (Python 3.12.9). Newer minor versions should work.
+numpy==2.2.6
+scipy==1.17.1
+pandas==3.0.2
+xarray==2025.4.0
+dask[distributed]==2025.5.1
+zarr==3.0.8
+netCDF4==1.7.2
+numba==0.61.2
+bottleneck==1.6.0
+pyarrow==23.0.1
+pymannkendall==1.4.3
+statsmodels==0.14.5
+matplotlib==3.10.3
+cartopy==0.24.1
+regionmask==0.13.0
+shapely==2.0.7
+rasterio==1.4.3
+rioxarray==0.19.0
+# only for analysis/sampling_validation/download.py (ERA5 point time series from the CDS)
+cdsapi
+# only for analysis/finalization_checks/spei_vs_lmoments3.py (independent L-moment fit)
+lmoments3
